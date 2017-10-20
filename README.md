@@ -30,8 +30,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ![Image](/catrisphotography/PicsArt_08-26-06.50.53.jpg)
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![GitHub Logo](/catrisphotography/PicsArt_08-26-06.50.53.jpg)
+Format: ![Alt Text](/catrisphotography/PicsArt_08-26-06.50.53.jpg)
 
 # Jekyll Themesfd
 
