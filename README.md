@@ -26,12 +26,12 @@ Syntax highlighted code block
 [Link](url) and ![pic](src)()
 ```
 
-For more details c [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details cc [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ![Image](/catrisphotography/PicsArt_08-26-06.50.53.jpg)
 
 ![GitHub Logo](/catrisphotography/PicsArt_08-26-06.50.53.jpg)
-Format: ![Alt gv Text](catrisphotography/PicsArt_08-26-06.50.53.jpg)
+Format: ![Alt gv Text](/catrisphotography/PicsArt_08-26-06.50.53.jpg)
 
 # Jekyll Themesfd
 
