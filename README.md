@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-[Image](https://goo.gl/images/hdwazi)
+[Image](catrisphotography/PicsArt_08-26-06.50.53.jpg)
 
 # Jekyll Themesfd
 
