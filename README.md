@@ -27,7 +27,7 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-[Image](src)
+[Image](https://goo.gl/images/hdwazi)
 
 # Jekyll Themesfd
 
