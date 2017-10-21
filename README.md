@@ -1,4 +1,4 @@
-## Welcome CATRIS Potography Page
+## Welcome to CATRIS Potography Page
 
 ### Category
 [```Nature```](/catrisphotography/nature.html)
