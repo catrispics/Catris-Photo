@@ -1,7 +1,7 @@
 ## Welcome CATRIS Potography Page
 
 ### Category
-[```Nature```](/catrisphotography/nature.html)  [```Constructions```](/catrisphotography/construction)
+[```Nature```](/catrisphotography/nature.html)  [```Constructions```](/catrisphotography/construction.html)
 
 ```markdown
 We provide you a Bunch of Awesome Photos.
