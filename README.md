@@ -15,6 +15,5 @@ Our photos will release whenever we take new variety of pics.
 ![Nature](/catrisphotography/PicsArt_08-26-06.50.53.jpg)
 
 
-![vid](/catrisphotography/gopi.mp4)
 
 [![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
