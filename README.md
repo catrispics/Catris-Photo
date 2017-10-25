@@ -12,4 +12,5 @@ Our photos will release whenever we take new variety of pics.
 
 ### Our first pic for this website
 
-![Image](/catrisphotography/PicsArt_08-26-06.50.53.jpg)
+![Nature](/catrisphotography/PicsArt_08-26-06.50.53.jpg)
+![vid](/catrisphotography/Gopinath funny speech.mp4)
