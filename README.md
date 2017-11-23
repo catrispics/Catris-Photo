@@ -1,7 +1,7 @@
 ## Welcome to the official page of CATRIS Photography
 
 
-###LEAF
+### LEAF
 
 ```LEAF```
 
@@ -11,4 +11,4 @@
 
 ```REFLECTION```
 
-![Reflection](/catrisphotography/reflection new 1.jpg)
+![Reflection](/catrisphotography/reflection)
