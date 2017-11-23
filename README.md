@@ -1,4 +1,4 @@
-## Welcome to the official page of CATRIS Photography
+## Welcome to CATRIS Photography
 
 
 ### ```LEAF```
