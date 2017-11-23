@@ -11,6 +11,6 @@
 ![Reflection](/catrisphotography/reflection.jpg)
 
 
-### ```sunset```
+### ```SUNSET```
 
-![sunset](/catrisphotography/sunset.jpg)
+![Sunset](/catrisphotography/Sunset.jpg)
