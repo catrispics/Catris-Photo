@@ -1,6 +1,6 @@
 ## Welcome to CATRIS Photography
 
-[Sunset](/nextpage/Leaf.jpg)
+[Sunset](/https://catrispics.github.io/nextpage/)
 
 
 ### ```LEAF```
