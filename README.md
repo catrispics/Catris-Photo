@@ -1,6 +1,5 @@
 ## Welcome to CATRIS Photography
 
-[Sunset](https://catrispics.github.io/nextpage)
 
 
 ### ```LEAF```
