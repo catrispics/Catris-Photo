@@ -24,7 +24,7 @@
 
 ### ```HIBISCUS LEAF```
 
-![Hibiscus leaf](/catrisphotography/Deepam.jpg)
+![Hibiscus leaf](/catrisphotography/Hibiscus leaf.jpg)
 
 
 ### ```FLOWER```
